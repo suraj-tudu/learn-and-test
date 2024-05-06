@@ -15,7 +15,7 @@ console.log(`Account ID : ${accId}`)
 
 // Dates and Time
 
-let date = new Date()
+// let date = new Date()
 // console.log(Date.now())
 // console.log(date)
 // console.log(date.toLocaleString('default', {
@@ -25,8 +25,8 @@ let date = new Date()
 
 // Array and Object
 
-let arr = [23,76,'Momo ',false,'Excercise ']
-let arrTwo = [54,89,23,'Hitesh','Kohinaa ']
+// let arr = [23,76,'Momo ',false,'Excercise ']
+// let arrTwo = [54,89,23,'Hitesh','Kohinaa ']
 // let obj = {
 //     name : 'Object',
 //     age : 22,
@@ -47,8 +47,45 @@ let arrTwo = [54,89,23,'Hitesh','Kohinaa ']
 // console.log(Array.from({name: "hitesh"})) // interesting
 
 
+// Object 
+
+// const obj = {
+//     name: 'Suraj',
+//     isloggedIn : true,
+//     location : 'Gurugram'
+// }
+// console.log(obj)
 
 
+// function 
 
+// function add( num1, num2 ){
+//     return num1 + num2
+// }
+
+// console.log(add(5,7))
+
+// result = function(){console.log('Sucess')}
+// result()
+
+
+// arrow function 
+
+// const prt = () => {console.log('Arrow Function')}
+// prt()
+// const add = (num1,num2) => (num1+num2)
+// console.log(add(8,6))
+
+
+// Immediately Invoked Function Expressions (IIFE)
+
+//  function tes(){
+//     console.log('Test Complete')
+//     }()
+
+// (function(){
+//     // named IIFE
+//     console.log(`DB CONNECTED`);
+// })();
 
 
